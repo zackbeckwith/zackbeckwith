@@ -3,7 +3,7 @@
 	<img align="center" src="https://i.imgur.com/5fp1ijY.png" width="400">
 	<h4><i>Me n' Elsa the Llama!</i></h4>
 	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zackbeckwith&theme=vue-dark" /></a>
-	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackbeckwith&hide=plpgsql&layout=compact&theme=github_dark" /></a>
+	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackbeckwith&hide=plpgsql&layout=compact&theme=vue_dark" /></a>
 	<hr>
 	<h2>What's up! 👋 I'm Zack.</h2>
 	<h3>I'm a Veterinary Nurse turned full-stack Software engineer with a heart for animals and a passion to advance the world and make lives not only easier, but more enjoyable as a whole.</h3>
