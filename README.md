@@ -1,11 +1,11 @@
 <div align="center">
 	<hr>
-	<img align="center" src="https://i.imgur.com/5fp1ijY.png" width="300">
-	<h6><em>Me n' Elsa the Llama!</em></h6>
+	<img align="center" src="https://i.imgur.com/5fp1ijY.png" width="400">
+	<h4><i>Me n' Elsa the Llama!</i></h4>
 	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zackbeckwith&theme=vue-dark" /></a>
 	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackbeckwith&layout=compact&theme=vue-dark" /></a>
 	<hr>
-	<h2>Hello! 👋 I'm Zack.</h2>
+	<h2>What's up! 👋 I'm Zack.</h2>
 	<h3>I'm a Veterinary Nurse turned full-stack Software engineer with a heart for animals and a passion to advance the world and make lives not only easier, but more enjoyable as a whole.</h3>
 	<hr>
   <div>
